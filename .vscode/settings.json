@@ -1,0 +1,10 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "Test",
+            "database": "${workspaceFolder:crud_py}/admin/www_admin/db.sqlite3"
+        }
+    ]
+}
